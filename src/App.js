@@ -7,6 +7,7 @@ import Skills from './components/Skills';
 import Team from './components/Team';
 import Newsletter from './components/Newsletter';
 import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 const App = () => {
   return <div>
@@ -16,7 +17,7 @@ const App = () => {
     <Team />
     <Newsletter />
     <Contact />
-    <div className='h-[2000px]'></div>
+    <Footer />
   </div>;
 };
 
