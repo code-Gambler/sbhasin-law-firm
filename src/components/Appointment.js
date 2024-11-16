@@ -6,7 +6,13 @@ const Appointment = () => {
         <h3 className='text-white text-[28px] font-bold tracking-[0.3px] text-center'>Get an appointment</h3>
         <div className='w-[54px] h-[3px] bg-white my-6 mx-auto'></div>
         {/* form */}
-        <div className='space-y-[24px]'></div>
+        <div className='space-y-[24px]'>
+          <input className='form-control' placeholder='Full Name' type="text" />
+          <input className='form-control' placeholder='Phone Number' type="text" />
+          <input className='form-control' placeholder='Email address' type="email" />
+          <textarea className='resize-none w-full h-[132px] outline-none rounded-sm p-4 font-body text-sm text-gray focus:ring-1 focus:ring-primary form-control' placeholder='Message' rows='5'></textarea>
+          <button className='btn bg-primary hover:bg-primary-hover transition-all'>Send message</button>
+        </div>
     </div>
   )
 }
