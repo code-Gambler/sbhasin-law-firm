@@ -18,7 +18,7 @@ const NavMobile = () => {
         </button>
         {navigation.map((item, index) => (
           <li key={index}>
-            <Link to={item.href} smooth={true} duration={10000} onClick={() => setIsOpen(false)} activeClass='active' spy={true} offset={-200} className='hover:text-accent-hover transition-all duration-300 cursor-pointer'>{item.name}</Link>
+            <Link to={item.href} smooth={true} duration={1000} onClick={() => setIsOpen(false)} activeClass='active' spy={true} className='hover:text-accent-hover transition-all duration-300 cursor-pointer'>{item.name}</Link>
           </li>
         ))}
       </ul>
