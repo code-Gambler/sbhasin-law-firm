@@ -8,6 +8,7 @@ import Team from './components/Team';
 import Newsletter from './components/Newsletter';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import BackToTopBtn from './components/BackToTopBtn';
 
 const App = () => {
   return <div>
@@ -18,6 +19,7 @@ const App = () => {
     <Newsletter />
     <Contact />
     <Footer />
+    <BackToTopBtn />
   </div>;
 };
 
