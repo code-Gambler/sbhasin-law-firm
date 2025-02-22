@@ -9,9 +9,11 @@ import Newsletter from './components/Newsletter';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import BackToTopBtn from './components/BackToTopBtn';
+import AutoOpenModal from './components/AutoOpenModal';
 
 const App = () => {
   return <div>
+    <AutoOpenModal />
     <Banner />
     <Testimonials />
     <Skills/>

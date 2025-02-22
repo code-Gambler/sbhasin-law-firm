@@ -109,22 +109,22 @@ export const skills = [
 export const team = [
   {
     image: TeamMember1,
-    name: 'Jane William',
-    position: 'Band & Financial Lawyer',
+    name: 'Saurav Bhasin',
+    position: 'Advocate and Solicitor Attorney', 
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
   },
   {
     image: TeamMember2,
-    name: 'Andrea Collins',
-    position: 'Family Lawyer',
+    name: 'Rasshmi Bhasin',
+    position: 'Partner Associate',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
   },
   {
     image: TeamMember3,
-    name: 'John Smith',
-    position: 'Business Lawyer',
+    name: 'Arvind Bhasin',
+    position: 'Junior Associate',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
   },
