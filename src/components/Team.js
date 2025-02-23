@@ -9,7 +9,7 @@ const Team = () => {
                 Our Attorneys
                 </h2>
             <p className='max-w-[540px] mx-auto px-6 lg:px-0 mb-[60px]'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem consectetur error possimus dolore praesentium. Dignissimos totam mollitia laudantium harum maiores!
+            Welcome to our law firm! Our team of highly skilled and dedicated professionals, led by Saurav Bhasin, brings over 15 years of legal expertise across diverse areas. With specialists in litigation, divorce, debt recovery, and immigration law, we are committed to providing effective legal solutions tailored to your needs. Let us guide you through your legal journey with integrity and expertise.
                 </p>
             {/* Team grid */}
             <div className='lg:grid lg:grid-cols-3 lg:gap-x-[30px]'>

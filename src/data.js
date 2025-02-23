@@ -46,22 +46,24 @@ export const navigation = [
 // testimonials data
 export const testimonials = [
   {
-    text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Jane Cooper',
-    image: ProfilePhoto1,
-    position: 'Web Developer',
+    text: 'Thanks to Saurav Bhasin and Arvind Bhasin, I received exceptional legal support during my dispute. Their professionalism and expertise made all the difference. Highly recommended!',
+    name: 'Vipin Makhija'
   },
   {
-    text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Theresa Webb',
-    image: ProfilePhoto2,
-    position: 'Web Designer',
+    text: 'Arvind Bhasin handled my 138 cheque bounce case with exceptional professionalism. He successfully helped recover funds that had been stuck for 3 to 5 years. I’m truly grateful for his expertise.',
+    name: 'Deepansh Valecha'
   },
   {
-    text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Kathryn Murphy',
-    image: ProfilePhoto3,
-    position: 'UI/UX Designer',
+    text: 'Saurav Bhasin provided outstanding legal support on my intellectual property matter, including filing my trademark and registering my incorporation. He also assisted in money recovery and other legal issues. Highly recommended!',
+    name: 'Bharat Gupta'
+  },
+  {
+    text: 'Arvind Bhasin assisted me with my marriage registration and resolved a family dispute matter efficiently. His professionalism and dedication provided the support I needed. I highly recommend his services.',
+    name: 'Nidhi Singhal'
+  },
+  {
+    text: 'Saurav Bhasin and Rashmi Bhasin handled my prolonged family dispute and divorce matter with exceptional speed and professionalism. I was amazed by the quick resolution and the positive outcome. Highly recommended!',
+    name: 'Mansi Sahani'
   },
 ];
 
@@ -110,23 +112,23 @@ export const team = [
   {
     image: TeamMember1,
     name: 'Saurav Bhasin',
-    position: 'Advocate and Solicitor Attorney', 
+    position: 'Principal Associate', 
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'With over 15 years of experience, Saurav Bhasin is the principal lawyer of our firm, specializing in Civil, Criminal, IP, Debt Recovery, Real Estate, and Corporate Law. He is empaneled with prominent institutions like Punjab National Bank, State Bank of India, Union Bank, and the Delhi Development Authority (DDA). Saurav is known for his expertise and commitment to delivering effective legal solutions to his clients.',
   },
   {
     image: TeamMember2,
     name: 'Rasshmi Bhasin',
-    position: 'Partner Associate',
+    position: 'Senior Associate',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'With extensive experience in litigation and legal research, Rashmi Bhasin has specialized in Divorce Matters and Debt Recovery. Her keen legal acumen and dedication to her clients have earned her a solid reputation in handling family disputes and financial recovery cases. Rashmi\'s strategic approach and compassionate demeanor ensure that clients receive the highest level of professional care.',
   },
   {
     image: TeamMember3,
     name: 'Arvind Bhasin',
-    position: 'Junior Associate',
+    position: 'Associate',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Arvind Bhasin completed his B.A.LL.B. from IP University in New Delhi and practiced law for three years in the Delhi High Court, district courts, and various tribunals. Building on this foundation, he expanded his expertise by pursuing Paralegal Education at Centennial College, Toronto, in 2022, with a focus on Immigration Law and Canadian Law. Arvind’s commitment to continuous learning positions him as a valuable asset in handling cross-border legal matters.',
   },
 ];
 
