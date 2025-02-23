@@ -22,10 +22,8 @@ const TestimonialSlider = () => {
             <div>
               <p>{text}</p>
               <div className='flex items-center mt-[18px] mb9'>
-                <img src={image} alt="" />
                 <div className='ml-4'>
                   <h6 className='font-bold'>{name}</h6>
-                  <p className='text-sm'>{position}</p>
                 </div>
               </div>
             </div>

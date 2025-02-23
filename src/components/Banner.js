@@ -11,7 +11,7 @@ const Banner = () => {
             {/* left side */}
             <div className='text-center mx-auto  h-full lg:text-left px-8 md:p-0'>
                 <h1 className='font-primary font-black text-6xl lg:text-7xl text-primary mb-4 lg:mt-[70px] leading-tight lg:leading-[90px]'>Your Problem <br/> <span className='text-accent'>Our Goal.</span></h1>
-                <p className='max-w-sm mx-auto mb-[50px] lg:mx-0 lg:max-w-[540px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore asperiores earum omnis molestiae quia. Delectus sapiente a consectetur aliquid eum.</p>
+                <p className='max-w-sm mx-auto mb-[50px] lg:mx-0 lg:max-w-[540px]'>Welcome to our law firm! We provide expert legal services in Civil, Criminal, Family Law, Debt Recovery, Immigration, and more. Our experienced team is committed to delivering personalized, results-driven solutions to help you navigate your legal challenges with confidence.</p>
                 {/* Appointment */}
                 <div className='lg:absolute mx-auto max-w-[445px] lg:mx-0'>
                     <Appointment />
