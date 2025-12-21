@@ -12,9 +12,9 @@ import Skill5 from '../src/assets/img/skills/skill5.png';
 import Skill6 from '../src/assets/img/skills/skill6.png';
 
 // import team images
-import TeamMember1 from '../src/assets/img/lawyer1.jpeg';
+import TeamMember1 from '../src/assets/img/lawyer1.png';
 import TeamMember2 from '../src/assets/img/lawyer2.png';
-import TeamMember3 from '../src/assets/img/lawyer3.png';
+import TeamMember3 from '../src/assets/img/lawyer3.jpg';
 
 // import social icons
 import FacebookIcon from '../src/assets/img/social/facebook.png';
