@@ -12,7 +12,7 @@ import Skill5 from '../src/assets/img/skills/skill5.png';
 import Skill6 from '../src/assets/img/skills/skill6.png';
 
 // import team images
-import TeamMember1 from '../src/assets/img/lawyer1.png';
+import TeamMember1 from '../src/assets/img/lawyer1.jpeg';
 import TeamMember2 from '../src/assets/img/lawyer2.png';
 import TeamMember3 from '../src/assets/img/lawyer3.png';
 
@@ -73,37 +73,37 @@ export const skills = [
     icon: Skill1,
     title: 'Corruption',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Providing legal advice and representation in matters involving corruption, misconduct, and regulatory investigations, with a focus on compliance and due process.',
   },
   {
     icon: Skill2,
     title: 'Employment',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Advising employers and employees on employment contracts, workplace disputes, wrongful termination, and compliance with labour and employment laws.',
   },
   {
     icon: Skill3,
     title: 'Real Estate',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Assisting clients with residential and commercial real estate transactions, leasing, due diligence, and property-related legal matters.',
   },
   {
     icon: Skill4,
     title: 'Taxes',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Offering legal guidance on tax planning, compliance, disputes, and representation before tax authorities to ensure lawful and efficient outcomes.',
   },
   {
     icon: Skill5,
     title: 'Corporate',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Supporting businesses with incorporation, governance, contracts, mergers, acquisitions, and ongoing corporate compliance.',
   },
   {
     icon: Skill6,
     title: 'Banking',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
+      'Advising financial institutions and clients on banking regulations, financing transactions, loan documentation, and risk management matters.',
   },
 ];
 
