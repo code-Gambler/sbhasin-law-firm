@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Nav from './Nav';
 import NavMobile from './NavMobile';
-import Logo from '../assets/img/logo.png';
+import Logo from '../assets/img/logo.svg';
 
 const Header = () => {
   const [bg, setBg] = useState(false);

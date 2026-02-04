@@ -12,7 +12,7 @@ import Skill5 from '../src/assets/img/skills/skill5.png';
 import Skill6 from '../src/assets/img/skills/skill6.png';
 
 // import team images
-import TeamMember1 from '../src/assets/img/lawyer1.png';
+import TeamMember1 from '../src/assets/img/lawyer1.jpeg';
 import TeamMember2 from '../src/assets/img/lawyer2.png';
 import TeamMember3 from '../src/assets/img/lawyer3.jpg';
 
@@ -118,17 +118,17 @@ export const team = [
   },
   {
     image: TeamMember2,
-    name: 'Rasshmi Bhasin',
+    name: 'Rasshmi Gupta',
     position: 'Senior Associate',
     description:
-      'With extensive experience in litigation and legal research, Rashmi Bhasin has specialized in Divorce Matters and Debt Recovery. Her keen legal acumen and dedication to her clients have earned her a solid reputation in handling family disputes and financial recovery cases. Rashmi\'s strategic approach and compassionate demeanor ensure that clients receive the highest level of professional care.',
+      'With extensive experience in litigation and legal research, Rasshmi Gupta has specialized in Divorce Matters and Debt Recovery. Her keen legal acumen and dedication to her clients have earned her a solid reputation in handling family disputes and financial recovery cases. Rashmi\'s strategic approach and compassionate demeanor ensure that clients receive the highest level of professional care.',
   },
   {
     image: TeamMember3,
     name: 'Arvind Bhasin',
     position: 'Associate',
     description:
-      'Arvind Bhasin completed his B.A.LL.B. from IP University in New Delhi and practiced law for three years in the Delhi High Court, district courts, and various tribunals. Building on this foundation, he expanded his expertise by pursuing Paralegal Education at Centennial College, Toronto, in 2022, with a focus on Immigration Law and Canadian Law. Arvind’s commitment to continuous learning positions him as a valuable asset in handling cross-border legal matters.',
+      'Arvind Bhasin completed his B.A. LL.B. from Guru Gobind Singh Indraprastha University (IP University), New Delhi, and brings over three years of practical legal experience. He has actively practiced before the Delhi High Court, various District Courts, and multiple tribunals, handling matters involving litigation, legal drafting, and case analysis. Known for his meticulous research skills and client-focused approach, Arvind is committed to delivering effective, ethical, and timely legal solutions.',
   },
 ];
 
