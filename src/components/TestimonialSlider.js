@@ -15,7 +15,7 @@ const TestimonialSlider = () => {
     <>
     <Swiper pagination={{dynamicBullets: true, clickable: true }} autoplay={{delay: 4000, disableOnInteraction:false}} modules={[Autoplay, Pagination]} className='mySwiper'>
       {testimonials.map((item, index) => {
-        const { text, name, image, position } = item;
+        const { text, name} = item;
         return (
         <SwiperSlide key={index}>
           <div className='relative lg:mt-[34px] before:content-quote p-8'>
