@@ -62,7 +62,7 @@ export const testimonials = [
     name: 'Nidhi Singhal'
   },
   {
-    text: 'Saurav Bhasin and Rashmi Bhasin handled my prolonged family dispute and divorce matter with exceptional speed and professionalism. I was amazed by the quick resolution and the positive outcome. Highly recommended!',
+    text: 'Saurav Bhasin and Rashmi Gupta handled my prolonged family dispute and divorce matter with exceptional speed and professionalism. I was amazed by the quick resolution and the positive outcome. Highly recommended!',
     name: 'Mansi Sahani'
   },
 ];
@@ -118,10 +118,10 @@ export const team = [
   },
   {
     image: TeamMember2,
-    name: 'Rasshmi Gupta',
+    name: 'Rashmi Gupta',
     position: 'Senior Associate',
     description:
-      'With extensive experience in litigation and legal research, Rasshmi Gupta has specialized in Divorce Matters and Debt Recovery. Her keen legal acumen and dedication to her clients have earned her a solid reputation in handling family disputes and financial recovery cases. Rashmi\'s strategic approach and compassionate demeanor ensure that clients receive the highest level of professional care.',
+      'With extensive experience in litigation and legal research, Rashmi Gupta has specialized in Divorce Matters and Debt Recovery. Her keen legal acumen and dedication to her clients have earned her a solid reputation in handling family disputes and financial recovery cases. Rashmi\'s strategic approach and compassionate demeanor ensure that clients receive the highest level of professional care.',
   },
   {
     image: TeamMember3,

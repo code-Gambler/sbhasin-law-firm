@@ -9,10 +9,10 @@ const Appointment = () => {
 
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID',
-        'YOUR_TEMPLATE_ID',
+        'service_6a6zueq',
+        'template_w5kkv8m',
         formRef.current,
-        'YOUR_PUBLIC_KEY'
+        'auLb3rYMJe2_-YloC'
       )
       .then(
         () => {

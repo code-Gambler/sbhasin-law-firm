@@ -23,11 +23,11 @@ const Contact = () => {
         </p>
 
         {/* Contact Details */}
-        <div className='max-w-[720px] mx-auto text-left bg-white/10 rounded-sm p-6 mb-12'>
+        <div className='max-w-[720px] mx-auto text-left  rounded-sm p-6 mb-12'>
           <p className='mb-3'>
             <span className='font-semibold'>Address:</span><br />
-            Shop No. 2/12, Mall Road, Old Market, New Market, Block 2,<br />
-            Tilak Nagar, New Delhi, Delhi – 110018, India
+            C-711, Ramphal Chowk Rd, near Shiksha bharti college, Sector 7 Dwarka,<br />
+            Palam, New delhi, Delhi - 110085, India
           </p>
 
           <p className='mb-2'>
@@ -43,7 +43,7 @@ const Contact = () => {
           <p>
             <span className='font-semibold'>Email:</span>{' '}
             <a
-              href='mailto:sauravbhasin10@gmail.com'
+              href='mailto:sbhasinassociates@gmail.com'
               className='underline hover:text-accent transition'
             >
               sauravbhasin10@gmail.com
