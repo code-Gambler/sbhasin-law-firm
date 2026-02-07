@@ -25,18 +25,27 @@ const Contact = () => {
         {/* Contact Details */}
         <div className='max-w-[720px] mx-auto text-left  rounded-sm p-6 mb-12'>
           <p className='mb-3'>
-            <span className='font-semibold'>Address:</span><br />
+            <span className='font-semibold'>Addresses:</span><br />
             C-711, Ramphal Chowk Rd, near Shiksha bharti college, Sector 7 Dwarka,<br />
             Palam, New delhi, Delhi - 110085, India
           </p>
-
+          <p className='mb-3'>
+            Chamber No. T-6, Tehsil Lane,<br />
+            Tis Hazari Court Complex, New delhi, Delhi - 110054, India
+          </p>
           <p className='mb-2'>
             <span className='font-semibold'>Phone:</span>{' '}
             <a
               href='tel:+919899331166'
               className='underline hover:text-accent transition'
             >
-              +91 98993 31166
+              +91-9899331166
+            </a>, &nbsp;
+            <a
+              href='tel:+919868735570'
+              className='underline hover:text-accent transition'
+            >
+              +91-9868735570
             </a>
           </p>
 
@@ -46,7 +55,7 @@ const Contact = () => {
               href='mailto:sbhasinassociates@gmail.com'
               className='underline hover:text-accent transition'
             >
-              sauravbhasin10@gmail.com
+              sbhasinassociates@gmail.com
             </a>
           </p>
         </div>
